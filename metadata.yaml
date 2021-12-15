@@ -1,5 +1,8 @@
 _repo: Let-Us-Kiss-and-Part-or-A-Shattered-Tie_66774
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66774-h/images/cover_back.jpg
 creator:
   author:
     agent_name: Miller, Alex. McVeigh, Mrs.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35103
     wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66774#Let-Us-Kiss-and-Part-or-A-Shattered-Tie
 gutenberg_issued: '2021-11-19'
 identifiers:
   gutenberg: '66774'
